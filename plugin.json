@@ -1,0 +1,17 @@
+{
+    "name": "siyuan-plugin-card-link",
+    "author": "zuoez02",
+    "url": "https://github.com/zuoez02/siyuan-plugin-card-link",
+    "version": "0.1.0",
+    "displayName": {
+        "default": "卡片链接",
+        "en_US": "Card Link"
+    },
+    "description": {
+        "default": "卡片链接",
+        "en_US": "Card Link"
+    },
+    "readme": {
+        "default": "README.md"
+    }
+}
