@@ -1055,16 +1055,16 @@ module.exports = class CardLinkApi extends Plugin {
 	background-size: cover;
 }
 .c {
-	z-index: 20;
+	/* z-index: 20; */
 }
 .co {
-	z-index: 30;
+	/* z-index: 30; */
 }
 .pr {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	z-index: 10;
+	/* z-index: 10; */
 }
 .pr > video {
 	width: 100%;
